@@ -207,4 +207,4 @@ SoundWire Server is the full free version with all features and updates included
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-11-06 20:20:52 UTC
+**Last updated:** 2026-11-07 00:42:53 UTC
